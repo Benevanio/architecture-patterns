@@ -1,87 +1,62 @@
 # 🏛️ Architecture Patterns
 
-Repositório dedicado ao estudo, implementação e comparação dos principais padrões de arquitetura de software utilizados no mercado.
+Repositório dedicado ao estudo e implementação dos principais padrões de arquitetura de software utilizando **Node.js** e **TypeScript**.
 
-O objetivo deste projeto é servir como referência prática para desenvolvedores, contendo exemplos completos, organizados e documentados de diferentes arquiteturas aplicadas em projetos reais.
+O objetivo é fornecer exemplos práticos, organizados e documentados das arquiteturas mais utilizadas no desenvolvimento de aplicações backend.
 
 ---
 
 ## 📚 Arquiteturas
 
-Atualmente o repositório possui exemplos de:
+Atualmente implementadas:
 
-```
+```text
 Node
 ├── Clean Architecture
-├── DDD (Domain-Driven Design)
+├── DDD
 ├── MVC
 └── MVVM
 ```
 
-Futuramente serão adicionadas:
-
-- Hexagonal Architecture
-- Onion Architecture
-- Modular Monolith
-- Vertical Slice Architecture
-- Event-Driven Architecture
-- Microservices
-- Serverless
-- CQRS
-- Event Sourcing
+Novas arquiteturas serão adicionadas futuramente.
 
 ---
 
 ## 🚀 Objetivos
 
-- Estudar diferentes arquiteturas
-- Comparar vantagens e desvantagens
-- Demonstrar boas práticas
-- Aplicar princípios SOLID
-- Implementar Design Patterns
-- Construir projetos escaláveis
-- Facilitar consultas futuras
+- Estudar diferentes padrões de arquitetura.
+- Comparar abordagens de desenvolvimento.
+- Aplicar princípios SOLID.
+- Implementar boas práticas de engenharia de software.
+- Disponibilizar exemplos práticos para consulta e aprendizado.
 
 ---
 
-## 🛠️ Tecnologias
-
-Os exemplos poderão utilizar diferentes tecnologias, incluindo:
+## 🛠️ Stack
 
 - Node.js
 - TypeScript
-- Java
-- Spring Boot
-- NestJS
 - Express
-- PostgreSQL
-- MongoDB
-- Redis
-- RabbitMQ
-- Kafka
-- Docker
-- Jest
+- ts-node
+- Nodemon
 
 ---
 
-## 📖 Estrutura
+## 📂 Estrutura
 
-Cada arquitetura possuirá sua própria documentação contendo:
+Cada arquitetura possui sua própria implementação, contendo:
 
-- Conceitos
-- Estrutura de pastas
-- Fluxo da aplicação
-- Casos de uso
-- Vantagens
-- Desvantagens
-- Quando utilizar
-- Exemplo prático
+- Organização de pastas
+- Separação de responsabilidades
+- Regras de negócio
+- Exemplos práticos
+- Documentação da arquitetura
 
 ---
 
-## 🎯 Objetivo Final
+## 🤝 Contribuindo
 
-Criar uma coleção completa de arquiteturas modernas para consulta, aprendizado e referência profissional.
+Contribuições são bem-vindas. Caso queira sugerir melhorias ou adicionar novas arquiteturas, abra uma *Issue* ou envie um *Pull Request*.
 
 ---
 
